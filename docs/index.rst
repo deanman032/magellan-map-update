@@ -4,7 +4,7 @@ How to Update Magellan Map? 🗺️✨
 
 Is your Magellan GPS showing outdated roads or missing new destinations? 😩 If yes, then it's time for a **Magellan map update**! Keeping your GPS updated is essential for safe, accurate, and stress-free travel. In this human-friendly guide, we'll walk you through everything you need to know to successfully **update your Magellan map**, and get back on the road with confidence. 🛣️💨
 
-.. image:: start.png
+.. image:: update-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
